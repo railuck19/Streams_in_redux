@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Hello Stream",
+      "description": "This is a excellent stream",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "This is my new stream",
+      "id": 3
+    },
+    {
+      "title": "Despacito",
+      "description": "This is Despacito stream",
+      "id": 4
+    },
+    {
+      "title": "hello",
+      "description": "hel",
+      "id": 6
+    },
+    {
+      "title": "Hello",
+      "description": "Reading",
+      "userId": "112726400696758500998",
+      "id": 7
+    }
+  ]
+}
